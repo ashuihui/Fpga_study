@@ -51,3 +51,9 @@
 	1. 实际里程显示：8位BCD码；
 	2. 等待时间：8位BCD码；
 	3. 实际价格：8位BCD码；
+
+## 代码
+
+[TAXI计价表的设计与仿真](https://github.com/ashuihui/Fpga_study/blob/master/CODE/taxi.v)
+
+##波形图
