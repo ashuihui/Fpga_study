@@ -57,3 +57,6 @@
 [TAXI计价表的设计与仿真code](https://github.com/ashuihui/Fpga_study/blob/master/CODE/taxi.v)
 
 ## 波形图
+![](https://github.com/ashuihui/Fpga_study/blob/master/PNG/last3_1.JPG)
+![](https://github.com/ashuihui/Fpga_study/blob/master/PNG/last3_2.JPG)
+![](https://github.com/ashuihui/Fpga_study/blob/master/PNG/last3_3.JPG)
